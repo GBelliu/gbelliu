@@ -10,6 +10,9 @@ Currently, I'm:<br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbelliu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbelliu&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=gbelliu&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=gbelliu&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gbelliu&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<a href="http://www.github.com/gbelliu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gbelliu&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
