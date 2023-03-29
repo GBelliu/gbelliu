@@ -1,4 +1,10 @@
+# Hey, welcome! I'm Guilherme Bellissimo Barbosa
 
+🔀 I work integrating technology with marketing, because I believe that both together achieve better results.<br>
+
+Currently, I'm:<br>
+👨🏻‍💻 Front-end Web Developer <br> 
+📚 Graduate student in Digital Marketing <br> 
 <div align="center">
   <a href="https://github.com/gbelliu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbelliu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
