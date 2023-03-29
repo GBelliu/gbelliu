@@ -7,19 +7,29 @@ Currently, I'm:<br>
 📚 Graduate student in Digital Marketing <br> 
 <div align="center">
   <a href="https://github.com/gbelliu">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbelliu&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbelliu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbelliu&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbelliu&theme=vision-friendly-dark" alt="gbelliu" />
+    
+
 </div>
   
-  ![](https://github-readme-stats.vercel.app/api?username=gbelliu&theme=radical&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=gbelliu&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gbelliu&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<a href="http://www.github.com/gbelliu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=gbelliu&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
+ 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; width: '100%'"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="30"/> 
+    <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
+  
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="30"/> 
+   <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/> 
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> 
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/> 
 </div>
   
    ##
@@ -30,6 +40,7 @@ Currently, I'm:<br>
 <!--  <a href="https://discord.gg/NEdbQAq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "mailto:gui.bellissimo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermebellissimobarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
  
 </div>
