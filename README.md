@@ -4,7 +4,7 @@
 
 Currently, I'm:<br>
 👨🏻‍💻 Front-end Web Developer <br> 
-📚 Graduate student in Digital Marketing <br> 
+📚 Graduated in Digital Marketing <br> 
 <div align="center">
   <a href="https://github.com/gbelliu">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbelliu&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
