@@ -4,6 +4,7 @@
 
 Currently, I'm:<br>
 👨🏻‍💻 Front-end Web Developer <br> 
+📚 Systems Development Technician <br> 
 📚 Graduated in Digital Marketing <br> 
 <div align="center">
   <a href="https://github.com/gbelliu">
