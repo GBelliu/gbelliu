@@ -1,7 +1,5 @@
 # Hey, welcome! I'm Guilherme Bellissimo Barbosa
 
-🔀 I work integrating technology with marketing, because I believe that both together achieve better results.<br>
-
 Currently, I'm:<br>
 👨🏻‍💻 Front-end Web Developer <br> 
 📚 Systems Development Technician <br> 
